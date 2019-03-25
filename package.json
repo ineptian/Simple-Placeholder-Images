@@ -1,0 +1,45 @@
+{
+    "name": "simple-placeholder-images",
+    "displayName": "Simple Placeholder Images",
+    "description": "Quickly generate placeholder images from placeholder.com",
+    "version": "1.0.0",
+    "publisher": "Ian Daly",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "sass",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "liquid",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
