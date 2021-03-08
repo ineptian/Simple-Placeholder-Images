@@ -2,7 +2,7 @@
     "name": "simple-placeholder-images",
     "displayName": "Simple Placeholder Images",
     "description": "Quickly generate placeholder images from placeholder.com",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "publisher": "ineptian",
     "engines": {
         "vscode": "^1.32.0"
