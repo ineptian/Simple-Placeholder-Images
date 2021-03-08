@@ -3,7 +3,7 @@
     "Simple Placeholder Image":{
         "prefix": "place",
         "body": [
-            "<img src=\"https://via.placeholder.com/${1:Width}x${2:Height}\" alt=\"\">"
+            "<img src=\"https://via.placeholder.com/${1:Width}x${2:Height}\" alt=\"${3:Placeholder Image}\">"
         ],
         "description": "Creates image tag with placeholder image."
     },

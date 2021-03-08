@@ -33,11 +33,11 @@
                 "path": "./snippets/snippets.json"
             },
             {
-                "language": "sass",
+                "language": "less",
                 "path": "./snippets/snippets.json"
             },
             {
-                "language": "liquid",
+                "language": "php",
                 "path": "./snippets/snippets.json"
             }
         ]
