@@ -16,10 +16,9 @@ Nope
 
 - html
 - javascript
-- liquid
 - css
 - scss
-- sass
+- less
 
 ## Installation
 
@@ -30,6 +29,12 @@ Install through VS Code extensions. Search for `Simple Placeholder Images`
 If you would like me to add anything to this extension (file formats, ability to add color to images, etc.) feel free to open an issue.
 
 ## Release Notes
+
+### 1.2.0
+
+Minor updates
+
+-----------------------------------------------------------------------------------------------------------
 
 ### 1.0.0
 
