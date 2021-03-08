@@ -11,6 +11,8 @@
         "Snippets"
     ],
     "repository": "https://github.com/ineptian/Simple-Placeholder-Images.git",
+    "icon": "https://github.com/ineptian/Simple-Placeholder-Images.git/icon.png",
+    "galleryBanner.color": "#8e918f",
     "contributes": {
         "snippets": [
             {
