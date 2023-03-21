@@ -3,14 +3,14 @@
     "Simple Placeholder Image":{
         "prefix": "place",
         "body": [
-            "<img src=\"https://via.placeholder.com/${1:Width}x${2:Height}\" alt=\"${3:Placeholder Image}\">"
+            "<img src=\"https://picsum.photos/${1:Width}/${2:Height}\" alt=\"${3:Placeholder Image}\">"
         ],
         "description": "Creates image tag with placeholder image."
     },
     "CSS Simple Placeholder Image":{
         "prefix": "cplace",
         "body": [
-            "https://via.placeholder.com/${1:Width}x${2:Height}"
+            "https://picsum.photos/${1:Width}/${2:Height}"
         ],
         "description": "Creates a link to placeholder image - for use with css"
     }

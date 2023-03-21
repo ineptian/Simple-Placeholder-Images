@@ -1,6 +1,6 @@
 # Simple Placeholder Images
 
-This is an extension for Visual Studio Code to easily generate basic placeholder images from [https://placeholder.com](https://placeholder.com) for your dev site.
+This is an extension for Visual Studio Code to easily generate basic placeholder images from [https://picsum.photos/](https://picsum.photos/) for your dev site.
 
 ## Features
 
@@ -15,10 +15,15 @@ Nope
 ## Supported Languages
 
 - html
+- liquid
+- nunjucks
+- react
+- vue
 - javascript
 - css
 - scss
 - less
+
 
 ## Installation
 
@@ -29,6 +34,13 @@ Install through VS Code extensions. Search for `Simple Placeholder Images`
 If you would like me to add anything to this extension (file formats, ability to add color to images, etc.) feel free to open an issue.
 
 ## Release Notes
+
+### 1.3.0
+
+- Moved from placeholder to picsum (placeholder no longer exists)
+- Added support for nunjucks, liquid, vue, typescript
+
+-----------------------------------------------------------------------------------------------------------
 
 ### 1.2.0
 

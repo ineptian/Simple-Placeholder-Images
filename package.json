@@ -2,7 +2,7 @@
     "name": "simple-placeholder-images",
     "displayName": "Simple Placeholder Images",
     "description": "Quickly generate placeholder images from placeholder.com",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "publisher": "ineptian",
     "engines": {
         "vscode": "^1.32.0"
@@ -28,6 +28,14 @@
                 "path": "./snippets/snippets.json"
             },
             {
+                "language": "typescript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/snippets.json"
+            },
+            {
                 "language": "css",
                 "path": "./snippets/snippets.json"
             },
@@ -42,6 +50,30 @@
             {
                 "language": "php",
                 "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "nunjucks",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "nj",
+                "path": "snippets/snippets.json"
+            },
+            {
+                "language": "njk",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "liquid",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "vue-html",
+                "path": "./snippets/vue-template.json"
             }
         ]
     }
